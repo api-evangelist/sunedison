@@ -1,0 +1,135 @@
+vocabulary:
+  name: SunEdison Vocabulary
+  description: >-
+    Domain vocabulary for SunEdison, the former global renewable energy developer.
+    Covers solar power, wind energy, project finance, and clean energy concepts
+    relevant to utility-scale renewable energy development and operations.
+  version: '1.0'
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  tags:
+    - Solar Energy
+    - Renewable Energy
+    - Wind Energy
+    - Clean Energy
+
+  terms:
+    - term: Solar Power Plant
+      definition: >-
+        A utility-scale photovoltaic (PV) facility that converts sunlight into
+        electricity, developed, owned, and operated by SunEdison for sale to
+        utilities and offtakers under long-term power purchase agreements.
+      tags:
+        - Solar
+        - Infrastructure
+
+    - term: Wind Energy
+      definition: >-
+        Electricity generated from wind turbines. SunEdison expanded into wind
+        through its 2014 acquisition of First Wind, becoming the largest
+        renewable energy developer globally at the time.
+      tags:
+        - Wind
+        - Infrastructure
+
+    - term: Power Purchase Agreement (PPA)
+      definition: >-
+        A long-term contract between SunEdison as energy producer and a utility
+        or commercial buyer, specifying the price and terms for purchasing
+        generated electricity over 20-25 years.
+      tags:
+        - Finance
+        - Contracts
+
+    - term: Photovoltaic (PV)
+      definition: >-
+        Technology that converts sunlight directly into electricity using
+        semiconductor materials. SunEdison designed, manufactured, and
+        operated large-scale PV installations worldwide.
+      tags:
+        - Solar
+        - Technology
+
+    - term: Yieldco
+      definition: >-
+        A publicly traded company created to own operational renewable energy
+        assets that generate stable cash flows. SunEdison created TerraForm Power
+        and TerraForm Global as yieldcos to hold its operational assets.
+      tags:
+        - Finance
+        - Structure
+
+    - term: TerraForm Power
+      definition: >-
+        A publicly traded yieldco created by SunEdison to own and operate
+        North American and European renewable energy power plants, providing
+        SunEdison with liquidity for new project development.
+      tags:
+        - Subsidiary
+        - Finance
+
+    - term: Project Finance
+      definition: >-
+        Financing structure used for renewable energy projects where the debt
+        is secured by the project's assets and cash flows rather than the
+        developer's balance sheet.
+      tags:
+        - Finance
+        - Development
+
+    - term: Offtaker
+      definition: >-
+        A utility, commercial, or industrial entity that purchases electricity
+        from a renewable energy facility under a power purchase agreement.
+      tags:
+        - Contracts
+        - Market
+
+    - term: Solar Module
+      definition: >-
+        A photovoltaic panel assembly that SunEdison manufactured and used in
+        its solar power plant installations.
+      tags:
+        - Hardware
+        - Solar
+
+    - term: Net Metering
+      definition: >-
+        A billing mechanism that credits residential and commercial solar
+        energy system owners for electricity fed back to the grid.
+      tags:
+        - Policy
+        - Distributed Energy
+
+    - term: Installed Capacity
+      definition: >-
+        The total nameplate generation capacity (measured in megawatts or
+        gigawatts) of solar and wind assets developed or operated by SunEdison.
+      tags:
+        - Metrics
+        - Infrastructure
+
+    - term: O&M (Operations and Maintenance)
+      definition: >-
+        Ongoing services for monitoring, maintaining, and repairing solar and
+        wind energy plants to ensure maximum uptime and energy generation.
+      tags:
+        - Operations
+
+    - term: Renewable Energy Credit (REC)
+      definition: >-
+        A tradeable certificate representing one megawatt-hour of electricity
+        generated from renewable sources, used to demonstrate renewable energy
+        usage and meet regulatory requirements.
+      tags:
+        - Finance
+        - Compliance
+
+    - term: Chapter 11 Bankruptcy
+      definition: >-
+        The US bankruptcy protection filing made by SunEdison on April 21, 2016,
+        listing $16.1 billion in liabilities across 1,500 legal entities after
+        rapid expansion and over-leveraging led to financial collapse.
+      tags:
+        - History
+        - Finance

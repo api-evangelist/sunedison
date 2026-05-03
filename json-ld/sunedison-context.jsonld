@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "sunedison": "https://www.sunedison.com/vocab#",
+    "geonames": "https://www.geonames.org/ontology#",
+
+    "SolarPowerPlant": {
+      "@id": "sunedison:SolarPowerPlant",
+      "@type": "@id",
+      "schema:sameAs": "schema:Place"
+    },
+    "WindFarm": {
+      "@id": "sunedison:WindFarm",
+      "@type": "@id",
+      "schema:sameAs": "schema:Place"
+    },
+    "PowerPurchaseAgreement": {
+      "@id": "sunedison:PowerPurchaseAgreement",
+      "@type": "@id",
+      "schema:sameAs": "schema:Contract"
+    },
+    "RenewableEnergyCredit": {
+      "@id": "sunedison:RenewableEnergyCredit",
+      "@type": "@id"
+    },
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "location": "schema:location",
+    "capacity": "sunedison:installedCapacity",
+    "capacityUnit": "sunedison:capacityUnit",
+    "technology": "sunedison:technology",
+    "offtaker": "sunedison:offtaker",
+    "contractLength": "sunedison:contractLength",
+    "startDate": "schema:startDate",
+    "endDate": "schema:endDate",
+    "country": "schema:addressCountry",
+    "region": "schema:addressRegion",
+    "status": "schema:status",
+    "annualGeneration": "sunedison:annualGeneration",
+    "generationUnit": "sunedison:generationUnit"
+  }
+}
