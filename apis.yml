@@ -27,6 +27,8 @@ common:
     url: https://www.sunedison.com
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/SunEdison
+  - type: LLMsTxt
+    url: https://sunedison.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
