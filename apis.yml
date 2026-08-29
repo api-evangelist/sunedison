@@ -7,6 +7,17 @@ description: >-
   energy developer before filing for Chapter 11 bankruptcy in April 2016 and emerging
   as a restructured private company in 2017. No public developer API was documented.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
