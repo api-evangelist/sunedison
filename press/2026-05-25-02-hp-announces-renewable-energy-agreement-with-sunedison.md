@@ -1,7 +1,9 @@
 ---
 title: HP Announces Renewable Energy Agreement With SunEdison ...
 url: https://www.hpcwire.com/aiwire/2015/07/21/hp-announces-renewable-energy-agreement-with-sunedison-to-support-clean-datacenters-in-texas/
-date: '2026-05-25'
+published: '2015-07-21'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"SunEdison" press release artificial intelligence'
 position: 2
 source: serpapi-google

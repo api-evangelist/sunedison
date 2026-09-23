@@ -1,7 +1,9 @@
 ---
 title: SunEdison's Subsidy-Fueled Collapse
 url: https://manhattan.institute/article/sunedisons-subsidy-fueled-collapse
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SunEdison" press release artificial intelligence'
 position: 3
 source: serpapi-google

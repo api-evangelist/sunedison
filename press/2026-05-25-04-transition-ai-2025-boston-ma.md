@@ -1,7 +1,9 @@
 ---
 title: Transition-AI 2025 | Boston, MA
 url: https://www.latitudemedia.com/events/transition-ai-2025/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SunEdison" press release artificial intelligence'
 position: 4
 source: serpapi-google
