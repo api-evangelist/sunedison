@@ -64,36 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SunEdison was a renewable energy company that developed, financed, installed, owned, and operated solar power plants and wind energy plants globally. Originally founded as MEMC Electronic Materials in 1959, SunEdison became the world's leading renewable energy developer before filing for Chapter 11 bankruptcy in April 2016. The company emerged as a restructured private entity in December 2017.
+SunEdison was a renewable energy company that developed, financed, installed, owned, and operated solar power plants and wind energy plants globally. Originally founded as MEMC Electronic Materials in 1959, SunEdison became the world's leading renewable energy developer before filing for Chapter 11 bankruptcy in April 2016 and emerging as a restructured private company in 2017. No public developer API was documented.
 
-## History
+**Areas:** Solar Energy · Renewable Energy · Wind Energy · Clean Energy · Energy · Fortune 1000
 
-- **Founded:** 1959 (as MEMC Electronic Materials / Monsanto Electronic Materials Company)
-- **Solar transition:** 2009 (acquired SunEdison LLC, solar project developer)
-- **Wind expansion:** 2014 (acquired First Wind)
-- **Peak:** World's largest renewable energy developer at time of bankruptcy filing
-- **Bankruptcy:** April 21, 2016 ($16.1 billion in liabilities)
-- **Emerged:** December 2017 as private restructured company
+## SunEdison on APIs.io
 
-## Links
+Everything profiled for SunEdison is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sunedison/](https://apis.io/providers/sunedison/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sunedison Context](https://apis.io/jsonld/sunedison/sunedison-context/)
+
+#### Vocabulary (1)
+
+The provider's domain terms, defined.
+
+- [SunEdison Vocabulary](https://apis.io/vocabularies/sunedison/sunedison-vocabulary/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sunedison Domain Security](https://apis.io/security/sunedison/sunedison-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.sunedison.com)
-- [Wikipedia](https://en.wikipedia.org/wiki/SunEdison)
 
-## APIs
+## API Evangelist rating
 
-No public developer API was documented for SunEdison. The company primarily operated as a project developer and asset owner rather than a software platform company.
+**Kin Score 7.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Artifacts
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 10.7 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-### Vocabulary
+**Agent readiness 0.0** — human-only
 
-- [sunedison-vocabulary.yml](vocabulary/sunedison-vocabulary.yml) — Domain vocabulary covering solar energy, wind energy, project finance, and renewable energy concepts
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-### JSON-LD
+**Regulatory alignment 9.0** — Energy & Utilities
 
-- [sunedison-context.jsonld](json-ld/sunedison-context.jsonld) — JSON-LD context mapping SunEdison vocabulary to schema.org for renewable energy data
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sunedison/](https://apis.io/providers/sunedison/).
 
-## Maintainers
+## How this profile is made
 
-- **Kin Lane** — kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SunEdison: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sunedison/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
